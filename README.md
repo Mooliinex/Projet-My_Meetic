@@ -1,0 +1,2 @@
+# Projet-My_Meetic
+Projet de deux semaine sur le but de créer un site de rencontres à la manière d’un Meetic. Nous vous proposons de l’orienter vers la rencontre de personne dans un bahut qui partageraient des points communs par exemple. Il est obligatoire de programmer en PHP orienté objet. Il est fortement conseillé lors d’un envoi de données d’effectuer une requête ajax en JQuery afin de vérifier et envoyer les données, puis traiter la réponse.
